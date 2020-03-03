@@ -6,4 +6,5 @@ This project creates an application that manages the list of goods that need to 
 There are two categories for the types of goods that need to be shipped: 
 
 •	Non-Perishable goods, such as blankets and tents, which have no expiry date. We refer to goods in this category as Good objects.
+
 •	Perishable goods, such as food and medicine, that have an expiry date. We refer to goods in this category as Perishable objects. 
