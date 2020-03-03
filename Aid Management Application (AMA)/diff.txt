@@ -1,0 +1,10 @@
+
+In line number 10 of your output:
+The output should be:
+ Sku: abc
+But your output is: 
+ Sku: gsl
+      ^
+------|
+Professor's character ASCII code: hex(61), dec(97)
+un-matched character ASCII code: hex(67), dec(103)
